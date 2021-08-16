@@ -10,4 +10,9 @@ public class Sales1 {
 	
 
 }
+	public void print()
+	{
+		System.out.println("Print all numbers");
+		display();
+	}
 }
