@@ -22,6 +22,8 @@ public class Sales1 {
 	public void print()
 	{
 		System.out.println("Print all numbers");
+		for(int i=0;i<100;i++)
+			System.out.println("Print i"+ i);
 		display();
 	}
 }
